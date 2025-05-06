@@ -1,4 +1,10 @@
-## Hi there 👋
+## ¡Con perseverancia porque el mundo no se come solo! 💪
+
+Actualmente jugando con Apps Script automatizando cositas ⚙️ 
+
+Con ganas de implementar un LLM de forma potente, solo falta encontrar esa forma potente 🐳
+
+∀ Interesado en aprender de teoría de grafos, teoría de números y sus implementaciones ∀
 
 <!--
 **SmazoG/SmazoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
