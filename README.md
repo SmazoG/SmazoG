@@ -2,7 +2,7 @@
 
 Actualmente jugando con Apps Script automatizando cositas ⚙️ 
 
-Con ganas de implementar un LLM de forma potente, solo falta encontrar esa forma potente 🐳
+Con ganas de implementar un LLM en un proyecto potente, solo falta encontrar ese proyecto potente 🐳
 
 ∀ Interesado en aprender de teoría de grafos, teoría de números y sus implementaciones ∀
 
